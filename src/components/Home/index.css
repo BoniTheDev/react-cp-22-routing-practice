@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+
+.home-container {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-size {
+  min-width: 100px;
+  max-width: 200px;
+}
+
+.home-heading {
+  color: #555555;
+  font-family: 'Roboto';
+  font-weight: 900;
+  font-size: 35px;
+}
